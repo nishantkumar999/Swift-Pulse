@@ -11,12 +11,12 @@ The backend implements **REST APIs** for various functionalities such as user au
 
 ## Features
 
-- **Role-based Registration**: Users can register as either **Sellers** or **Shoppers**.
+- **Role-based Registration**: Users can register as either **Sellers** or **Buyers**.
 - **Seller Functionality**: Sellers can manage their products (add, update, delete).
-- **Buyer Functionality**: Shoppers can browse products, add them to the cart, and place orders.
+- **Buyer Functionality**: Buyers can browse products, add them to the cart, and place orders.
 - **Product Management**: Sellers can manage products with details such as name, description, price, and quantity.
-- **Dynamic Shopping Cart**: Shoppers can add products to a shopping cart dynamically.
-- **Order Placement**: Shoppers can place orders after reviewing their cart.
+- **Dynamic Shopping Cart**: Buyers can add products to a shopping cart dynamically.
+- **Order Placement**: Buyers can place orders after reviewing their cart.
 - **PostgreSQL Integration**: The application uses **PostgreSQL** for efficient database schema design and operations.
 - **API Testing**: APIs are thoroughly tested using **Postman** to ensure reliability and correctness.
 
