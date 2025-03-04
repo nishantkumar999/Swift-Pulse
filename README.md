@@ -5,7 +5,7 @@ Swift-Pulse is a backend application for e-commerce platform.
 ## Overview
 
 This project is a backend system for an **E-Commerce platform** developed using **Spring Boot**.
-It includes **role-based registration** for users as **Sellers** or **Shoppers**.
+It includes **role-based registration** for users as **Sellers** or **Buyers**.
 Sellers can manage products, while Shoppers can browse products, add items to a dynamic shopping cart, and place orders.
 The backend implements **REST APIs** for various functionalities such as user authentication, product management, cart operations, and order placement.
 
